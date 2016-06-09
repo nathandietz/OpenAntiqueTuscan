@@ -3,7 +3,7 @@
 
 
 ## Completed
-- ~Complete Kerning Tables~
+- <s>Complete Kerning Tables</s>
 - Create Common ligatures
 - Code in OpenType Features
 
