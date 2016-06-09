@@ -3,6 +3,7 @@
 ## Todo
 - Tweak Current Glyphs
 - Fix "Section" Glyph
+- Add Condensed Version
 
 ## Completed
 - <s>Complete Kerning Tables</s>
