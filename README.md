@@ -1,4 +1,10 @@
 #Open-Antique-Tuscan
+https://github.com/singingmower/OpenAntiqueTuscan
+
+## Download Open Antique Tuscan
+<a href="#">Latest Release</a>
+
+## About
 A revival and expansion of an Antique Tuscan wood type design from Wells & Webb 1849 specimens catalog. This was inspired by the book American Wood Type 1828–1900 by Rob Roy Kelly.
 
 #Work In Progress (WIP)
