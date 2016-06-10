@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="1">
+  <advance width="750"/>
+  <unicode hex="00BE"/>
+  <outline>
+    <contour>
+      <point x="200" y="450" type="line"/>
+      <point x="200" y="470"/>
+      <point x="240" y="510"/>
+      <point x="260" y="510" type="curve"/>
+      <point x="260" y="515"/>
+      <point x="255" y="520"/>
+      <point x="255" y="540" type="curve"/>
+      <point x="255" y="560"/>
+      <point x="260" y="565"/>
+      <point x="260" y="570" type="curve"/>
+      <point x="240" y="570"/>
+      <point x="200" y="595"/>
+      <point x="200" y="600" type="curve"/>
+      <point x="200" y="605"/>
+      <point x="240" y="630"/>
+      <point x="260" y="630" type="curve"/>
+      <point x="260" y="635"/>
+      <point x="255" y="640"/>
+      <point x="255" y="660" type="curve"/>
+      <point x="255" y="680"/>
+      <point x="260" y="685"/>
+      <point x="260" y="690" type="curve"/>
+      <point x="240" y="690"/>
+      <point x="200" y="730"/>
+      <point x="200" y="750" type="curve"/>
+      <point x="80" y="750" type="line"/>
+      <point x="80" y="730"/>
+      <point x="40" y="710"/>
+      <point x="20" y="710" type="curve"/>
+      <point x="20" y="700"/>
+      <point x="25" y="690"/>
+      <point x="25" y="675" type="curve"/>
+      <point x="25" y="660"/>
+      <point x="20" y="650"/>
+      <point x="20" y="640" type="curve"/>
+      <point x="30" y="640"/>
+      <point x="40" y="645"/>
+      <point x="60" y="645" type="curve"/>
+      <point x="80" y="645"/>
+      <point x="90" y="640"/>
+      <point x="100" y="640" type="curve"/>
+      <point x="100" y="645"/>
+      <point x="95" y="650"/>
+      <point x="95" y="668" type="curve"/>
+      <point x="95" y="685"/>
+      <point x="110" y="695"/>
+      <point x="125" y="695" type="curve"/>
+      <point x="150" y="695"/>
+      <point x="160" y="680"/>
+      <point x="160" y="660" type="curve"/>
+      <point x="160" y="638"/>
+      <point x="150" y="625"/>
+      <point x="130" y="625" type="curve"/>
+      <point x="120" y="625"/>
+      <point x="110" y="630"/>
+      <point x="100" y="630" type="curve"/>
+      <point x="100" y="625"/>
+      <point x="104" y="620"/>
+      <point x="104" y="605" type="curve"/>
+      <point x="104" y="590"/>
+      <point x="100" y="585"/>
+      <point x="100" y="580" type="curve"/>
+      <point x="110" y="580"/>
+      <point x="120" y="585"/>
+      <point x="130" y="585" type="curve"/>
+      <point x="150" y="585"/>
+      <point x="160" y="570"/>
+      <point x="160" y="545" type="curve"/>
+      <point x="160" y="520"/>
+      <point x="150" y="505"/>
+      <point x="125" y="505" type="curve"/>
+      <point x="110" y="505"/>
+      <point x="95" y="520"/>
+      <point x="95" y="540" type="curve"/>
+      <point x="95" y="560"/>
+      <point x="100" y="565"/>
+      <point x="100" y="570" type="curve"/>
+      <point x="90" y="570"/>
+      <point x="80" y="565"/>
+      <point x="60" y="565" type="curve"/>
+      <point x="40" y="565"/>
+      <point x="30" y="570"/>
+      <point x="20" y="570" type="curve"/>
+      <point x="20" y="560"/>
+      <point x="24" y="550"/>
+      <point x="24" y="530" type="curve"/>
+      <point x="24" y="510"/>
+      <point x="20" y="500"/>
+      <point x="20" y="490" type="curve"/>
+      <point x="40" y="490"/>
+      <point x="80" y="470"/>
+      <point x="80" y="450" type="curve"/>
+    </contour>
+    <contour>
+      <point x="470" y="0" type="line"/>
+      <point x="470" y="10"/>
+      <point x="474" y="20"/>
+      <point x="474" y="35" type="curve"/>
+      <point x="474" y="50"/>
+      <point x="470" y="60"/>
+      <point x="470" y="70" type="curve"/>
+      <point x="475" y="70"/>
+      <point x="480" y="65"/>
+      <point x="495" y="65" type="curve"/>
+      <point x="520" y="65"/>
+      <point x="523" y="105"/>
+      <point x="523" y="110" type="curve"/>
+      <point x="440" y="110"/>
+      <point x="430" y="100"/>
+      <point x="420" y="100" type="curve"/>
+      <point x="420" y="105"/>
+      <point x="425" y="115"/>
+      <point x="425" y="130" type="curve"/>
+      <point x="425" y="145"/>
+      <point x="420" y="155"/>
+      <point x="420" y="160" type="curve"/>
+      <point x="440" y="160"/>
+      <point x="550" y="280"/>
+      <point x="550" y="300" type="curve"/>
+      <point x="620" y="300" type="line"/>
+      <point x="620" y="280"/>
+      <point x="610" y="265"/>
+      <point x="610" y="150" type="curve"/>
+      <point x="655" y="150"/>
+      <point x="665" y="160"/>
+      <point x="670" y="160" type="curve"/>
+      <point x="670" y="155"/>
+      <point x="665" y="145"/>
+      <point x="665" y="130" type="curve"/>
+      <point x="665" y="116"/>
+      <point x="670" y="105"/>
+      <point x="670" y="100" type="curve"/>
+      <point x="665" y="100"/>
+      <point x="655" y="110"/>
+      <point x="615" y="110" type="curve"/>
+      <point x="615" y="105"/>
+      <point x="620" y="65"/>
+      <point x="645" y="65" type="curve"/>
+      <point x="660" y="65"/>
+      <point x="665" y="70"/>
+      <point x="670" y="70" type="curve"/>
+      <point x="670" y="60"/>
+      <point x="666" y="50"/>
+      <point x="666" y="35" type="curve"/>
+      <point x="666" y="20"/>
+      <point x="670" y="10"/>
+      <point x="670" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="525" y="150" type="line"/>
+      <point x="525" y="205" type="line"/>
+      <point x="525" y="195"/>
+      <point x="475" y="150"/>
+      <point x="470" y="150" type="curve"/>
+    </contour>
+    <component base="fraction"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+        <key>similar_glyphs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+        <key>testing</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>threequarters</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>750</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

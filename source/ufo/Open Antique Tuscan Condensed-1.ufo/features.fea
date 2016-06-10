@@ -1,0 +1,13 @@
+# Prefix: Prefix
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature liga {
+    sub t t by tt;
+    sub f i by fi;
+} liga;
+
+feature dlig {
+    sub F y by Fy;
+} dlig;
+

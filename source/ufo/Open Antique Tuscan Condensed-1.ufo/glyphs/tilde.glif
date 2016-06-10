@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="500"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="20" y="800" type="curve"/>
+      <point x="140" y="800" type="line"/>
+      <point x="140" y="810"/>
+      <point x="132" y="815"/>
+      <point x="132" y="825" type="curve"/>
+      <point x="132" y="835"/>
+      <point x="140" y="850"/>
+      <point x="170" y="850" type="curve"/>
+      <point x="220" y="850"/>
+      <point x="320" y="800"/>
+      <point x="340" y="800" type="curve"/>
+      <point x="340" y="830"/>
+      <point x="390" y="850"/>
+      <point x="420" y="850" type="curve"/>
+      <point x="420" y="860"/>
+      <point x="410" y="870"/>
+      <point x="410" y="900" type="curve"/>
+      <point x="410" y="930"/>
+      <point x="420" y="940"/>
+      <point x="420" y="950" type="curve"/>
+      <point x="300" y="950" type="line"/>
+      <point x="300" y="940"/>
+      <point x="308" y="935"/>
+      <point x="308" y="925" type="curve"/>
+      <point x="308" y="915"/>
+      <point x="300" y="900"/>
+      <point x="280" y="900" type="curve"/>
+      <point x="230" y="900"/>
+      <point x="120" y="950"/>
+      <point x="100" y="950" type="curve"/>
+      <point x="100" y="920"/>
+      <point x="50" y="900"/>
+      <point x="20" y="900" type="curve"/>
+      <point x="20" y="890"/>
+      <point x="30" y="880"/>
+      <point x="30" y="850" type="curve"/>
+      <point x="30" y="820"/>
+      <point x="20" y="810"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>similar_glyphs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>testing</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>tilde</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

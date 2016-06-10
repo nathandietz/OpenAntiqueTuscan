@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="C_o_underscore" format="1">
+  <advance width="1334"/>
+  <outline>
+    <contour>
+      <point x="1002" y="310" type="curve"/>
+      <point x="952" y="310"/>
+      <point x="924" y="347"/>
+      <point x="924" y="475" type="curve"/>
+      <point x="924" y="603"/>
+      <point x="952" y="640"/>
+      <point x="1002" y="640" type="curve"/>
+      <point x="1053" y="640"/>
+      <point x="1080" y="603"/>
+      <point x="1080" y="475" type="curve"/>
+      <point x="1080" y="347"/>
+      <point x="1053" y="310"/>
+    </contour>
+    <contour>
+      <point x="1117" y="200" type="line"/>
+      <point x="1117" y="246"/>
+      <point x="1209" y="337"/>
+      <point x="1254" y="337" type="curve"/>
+      <point x="1254" y="356"/>
+      <point x="1236" y="365"/>
+      <point x="1236" y="475" type="curve"/>
+      <point x="1236" y="585"/>
+      <point x="1254" y="594"/>
+      <point x="1254" y="612" type="curve"/>
+      <point x="1209" y="612"/>
+      <point x="1117" y="704"/>
+      <point x="1117" y="750" type="curve"/>
+      <point x="888" y="750" type="line"/>
+      <point x="888" y="704"/>
+      <point x="796" y="612"/>
+      <point x="750" y="612" type="curve"/>
+      <point x="750" y="594"/>
+      <point x="768" y="585"/>
+      <point x="768" y="475" type="curve"/>
+      <point x="768" y="365"/>
+      <point x="750" y="356"/>
+      <point x="750" y="337" type="curve"/>
+      <point x="796" y="337"/>
+      <point x="888" y="246"/>
+      <point x="888" y="200" type="curve"/>
+    </contour>
+    <component base="C"/>
+    <component base="endash" xOffset="730" yOffset="-300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C_o_underscore</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1334</integer>
+        </dict>
+        <key>similar_glyphs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C_o_underscore</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1334</integer>
+        </dict>
+        <key>testing</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>C_o_underscore</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1334</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
