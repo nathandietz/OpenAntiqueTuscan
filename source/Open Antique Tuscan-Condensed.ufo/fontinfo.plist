@@ -12,6 +12,22 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Open Antique Tuscan</string>
+	<key>note</key>
+	<string># General
+Main Stem Width	:	200
+Serif Width		:	80
+
+# Counters
+O Gap Width		:	160
+D Gap Width		:	120
+H Gap Width		:	40
+
+# L
+L Arm Width		:	160
+L Gap Width		:	120
+
+#C
+C Arm Width		:	160</string>
 	<key>openTypeNameDesigner</key>
 	<string>Nathan Dietz</string>
 	<key>openTypeNameDesignerURL</key>

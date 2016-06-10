@@ -220,7 +220,7 @@
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.background.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.background.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.background.layerShowFill</key>
@@ -242,6 +242,8 @@
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.checkOutlines</key>
 	<integer>1</integer>
+	<key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+	<true/>
 	<key>com.typemytype.robofont.compileSettings.decompose</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
@@ -266,7 +268,7 @@
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
@@ -594,19 +596,6 @@
 				<string>quoteleft</string>
 				<string>quoteright</string>
 				<string>minus</string>
-				<string>quotedblright</string>
-				<string>tt</string>
-				<string>C_o_underscore</string>
-				<string>ellipsis</string>
-				<string>quotedblleft</string>
-				<string>.notdef</string>
-				<string>endash</string>
-				<string>fi</string>
-				<string>FI</string>
-				<string>Fy</string>
-				<string>fraction</string>
-				<string>c.add_1</string>
-				<string>emdash</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -615,7 +604,7 @@
 	<key>com.typemytype.robofont.templateCharacterSet</key>
 	<string>Latin-1</string>
 	<key>com.typemytype.robofont.testing.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.testing.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.testing.layerShowFill</key>

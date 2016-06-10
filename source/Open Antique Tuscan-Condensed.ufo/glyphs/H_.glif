@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="H" format="1">
-  <advance width="770"/>
+  <advance width="760"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="250" y="450" type="line"/>
-      <point x="250" y="300" type="line"/>
-      <point x="510" y="300" type="line"/>
-      <point x="510" y="450" type="line"/>
+      <point x="260" y="450" type="line"/>
+      <point x="260" y="300" type="line"/>
+      <point x="500" y="300" type="line"/>
+      <point x="500" y="450" type="line"/>
     </contour>
     <component base="I"/>
-    <component base="I" xOffset="410"/>
+    <component base="I" xOffset="400"/>
   </outline>
   <lib>
     <dict>
@@ -331,29 +331,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
-        </dict>
-        <key>similar_glyphs</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>H</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>770</integer>
+          <integer>760</integer>
         </dict>
         <key>testing</key>
         <dict>
@@ -1302,7 +1280,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>770</integer>
+          <integer>760</integer>
         </dict>
       </dict>
     </dict>
