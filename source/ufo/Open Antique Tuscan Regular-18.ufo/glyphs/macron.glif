@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="550"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="470" y="710" type="curve"/>
+      <point x="450" y="710"/>
+      <point x="440" y="705"/>
+      <point x="245" y="705" type="curve"/>
+      <point x="50" y="705"/>
+      <point x="40" y="710"/>
+      <point x="20" y="710" type="curve"/>
+      <point x="20" y="700"/>
+      <point x="25" y="690"/>
+      <point x="25" y="675" type="curve"/>
+      <point x="25" y="660"/>
+      <point x="20" y="650"/>
+      <point x="20" y="640" type="curve"/>
+      <point x="40" y="640"/>
+      <point x="50" y="645"/>
+      <point x="245" y="645" type="curve"/>
+      <point x="440" y="645"/>
+      <point x="450" y="640"/>
+      <point x="470" y="640" type="curve"/>
+      <point x="470" y="650"/>
+      <point x="465" y="660"/>
+      <point x="465" y="675" type="curve"/>
+      <point x="465" y="690"/>
+      <point x="470" y="700"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+        <key>similar_glyphs</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+        <key>testing</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>macron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>550</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
