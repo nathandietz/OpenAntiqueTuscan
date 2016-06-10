@@ -372,7 +372,7 @@
 	<key>com.typemytype.robofont.shouldSaveImageInUFOPath</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.similar_glyphs.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowFill</key>
