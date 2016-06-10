@@ -12,6 +12,13 @@
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>Open Antique Tuscan</string>
+	<key>note</key>
+	<string>Main Stem Width	:	250
+Serif Width		:	100
+O Gap Width		:	200
+D Gap Width		:	150
+H Gap Width		:	50
+L Arm Width		:	200</string>
 	<key>openTypeHeadCreated</key>
 	<string>2015/12/31 12:15:15</string>
 	<key>openTypeNameDesigner</key>

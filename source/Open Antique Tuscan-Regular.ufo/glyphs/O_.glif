@@ -225,7 +225,7 @@
                   <key>segmentType</key>
                   <string>line</string>
                   <key>smooth</key>
-                  <false/>
+                  <true/>
                   <key>x</key>
                   <integer>720</integer>
                   <key>y</key>
