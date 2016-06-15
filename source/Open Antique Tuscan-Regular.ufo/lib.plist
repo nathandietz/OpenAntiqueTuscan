@@ -374,7 +374,7 @@
 	<key>com.typemytype.robofont.shouldSaveImageInUFOPath</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.similar_glyphs.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowFill</key>
@@ -596,6 +596,21 @@
 				<string>quoteleft</string>
 				<string>quoteright</string>
 				<string>minus</string>
+				<string>quotedblright</string>
+				<string>tt</string>
+				<string>C_o_underscore</string>
+				<string>L.add_01</string>
+				<string>ellipsis</string>
+				<string>quotedblleft</string>
+				<string>.notdef</string>
+				<string>endash</string>
+				<string>fi</string>
+				<string>FI</string>
+				<string>Fy</string>
+				<string>fraction</string>
+				<string>c.add_1</string>
+				<string>emdash</string>
+				<string>Z.add_01</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
