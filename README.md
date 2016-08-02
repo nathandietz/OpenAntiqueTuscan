@@ -1,4 +1,5 @@
-[Read more words!](samples/alphabet.jpg)
+![Read more words!](samples/alphabet.jpg)
+![alt tag](http://url/to/img.png)
 
 #Open Antique Tuscan
 https://github.com/singingmower/OpenAntiqueTuscan
