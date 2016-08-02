@@ -1,6 +1,3 @@
-![Read more words!](samples/alphabet.jpg)
-![alt tag](http://url/to/img.png)
-
 #Open Antique Tuscan
 https://github.com/singingmower/OpenAntiqueTuscan
 
@@ -17,3 +14,6 @@ See the  <a href="https://github.com/nathandietz/OpenAntiqueTuscan/blob/master/R
 
 ##Feedback & Questions
 If you have any questions or would like to provide feedback on the typeface (I would GREATLY appreciate all feedback) please email "design@nathandietz.com".
+
+## Example
+![Open Antique Tuscan Alphabet](samples/alphabet.jpg)
