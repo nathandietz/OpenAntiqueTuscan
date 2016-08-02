@@ -1,3 +1,5 @@
+[Read more words!](samples/alphabet.jpg)
+
 #Open Antique Tuscan
 https://github.com/singingmower/OpenAntiqueTuscan
 
