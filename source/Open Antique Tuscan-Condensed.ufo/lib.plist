@@ -249,7 +249,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/nathandietz/Desktop/Open Antique Tuscan.otf</string>
+	<string>/Users/nathandietz/Github/OpenAntiqueTuscan/source/Open Antique Tuscan-Condensed.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.counter-02.layerShowCoordinates</key>
@@ -374,7 +374,7 @@
 	<key>com.typemytype.robofont.shouldSaveImageInUFOPath</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.similar_glyphs.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowFill</key>
@@ -596,6 +596,19 @@
 				<string>quoteleft</string>
 				<string>quoteright</string>
 				<string>minus</string>
+				<string>quotedblright</string>
+				<string>tt</string>
+				<string>C_o_underscore</string>
+				<string>ellipsis</string>
+				<string>quotedblleft</string>
+				<string>.notdef</string>
+				<string>endash</string>
+				<string>fi</string>
+				<string>FI</string>
+				<string>Fy</string>
+				<string>fraction</string>
+				<string>c.add_1</string>
+				<string>emdash</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
