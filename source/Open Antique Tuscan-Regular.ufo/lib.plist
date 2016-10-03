@@ -249,7 +249,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/nathandietz/Desktop/Open Antique Tuscan.otf</string>
+	<string>/Users/nathandietz/Github/OpenAntiqueTuscan/otf/Open Antique Tuscan-Regular.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>1</integer>
 	<key>com.typemytype.robofont.counter-02.layerShowCoordinates</key>
@@ -604,8 +604,8 @@
 				<string>quotedblleft</string>
 				<string>.notdef</string>
 				<string>endash</string>
-				<string>fi</string>
 				<string>ff</string>
+				<string>fi</string>
 				<string>fl</string>
 				<string>ffi</string>
 				<string>ffl</string>
@@ -850,8 +850,8 @@
 		<string>quotedblleft</string>
 		<string>.notdef</string>
 		<string>endash</string>
-		<string>fi</string>
 		<string>ff</string>
+		<string>fi</string>
 		<string>fl</string>
 		<string>ffi</string>
 		<string>ffl</string>
