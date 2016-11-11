@@ -220,7 +220,7 @@
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.background.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.background.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.background.layerShowFill</key>
@@ -268,7 +268,7 @@
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
@@ -617,7 +617,7 @@
 	<key>com.typemytype.robofont.templateCharacterSet</key>
 	<string>Latin-1</string>
 	<key>com.typemytype.robofont.testing.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.testing.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.testing.layerShowFill</key>
