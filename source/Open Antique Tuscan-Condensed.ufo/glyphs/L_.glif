@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="630"/>
+  <advance width="560"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
@@ -17,26 +17,26 @@
       <point x="11" y="31"/>
       <point x="0" y="20"/>
       <point x="0" y="0" type="curve"/>
-      <point x="550" y="0" type="line"/>
-      <point x="550" y="20"/>
-      <point x="540" y="30"/>
-      <point x="540" y="150" type="curve" smooth="yes"/>
-      <point x="540" y="300"/>
-      <point x="550" y="310"/>
-      <point x="550" y="330" type="curve"/>
-      <point x="530" y="330"/>
-      <point x="520" y="320"/>
-      <point x="460" y="320" type="curve" smooth="yes"/>
-      <point x="400" y="320"/>
-      <point x="390" y="330"/>
-      <point x="370" y="330" type="curve"/>
-      <point x="370" y="310"/>
-      <point x="380" y="300"/>
-      <point x="380" y="240" type="curve" smooth="yes"/>
-      <point x="380" y="180"/>
-      <point x="370" y="140"/>
-      <point x="330" y="140" type="curve"/>
-      <point x="280" y="140"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="20"/>
+      <point x="550" y="30"/>
+      <point x="550" y="150" type="curve" smooth="yes"/>
+      <point x="550" y="300"/>
+      <point x="560" y="310"/>
+      <point x="560" y="330" type="curve"/>
+      <point x="540" y="330"/>
+      <point x="530" y="320"/>
+      <point x="470" y="320" type="curve" smooth="yes"/>
+      <point x="410" y="320"/>
+      <point x="400" y="330"/>
+      <point x="380" y="330" type="curve"/>
+      <point x="380" y="310"/>
+      <point x="390" y="300"/>
+      <point x="390" y="240" type="curve" smooth="yes"/>
+      <point x="390" y="190"/>
+      <point x="380" y="150"/>
+      <point x="340" y="150" type="curve"/>
+      <point x="280" y="150"/>
       <point x="270" y="200"/>
       <point x="270" y="375" type="curve"/>
       <point x="270" y="550"/>
@@ -131,7 +131,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>550</integer>
+                  <integer>560</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -141,7 +141,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>550</integer>
+                  <integer>560</integer>
                   <key>y</key>
                   <integer>150</integer>
                 </dict>
@@ -151,7 +151,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>550</integer>
+                  <integer>560</integer>
                   <key>y</key>
                   <integer>330</integer>
                 </dict>
@@ -161,7 +161,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>370</integer>
+                  <integer>380</integer>
                   <key>y</key>
                   <integer>330</integer>
                 </dict>
@@ -171,7 +171,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>370</integer>
+                  <integer>380</integer>
                   <key>y</key>
                   <integer>150</integer>
                 </dict>
@@ -287,7 +287,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>630</integer>
+          <integer>560</integer>
         </dict>
       </dict>
     </dict>

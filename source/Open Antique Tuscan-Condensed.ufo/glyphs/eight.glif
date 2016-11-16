@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eight" format="1">
-  <advance width="580"/>
+  <advance width="500"/>
   <unicode hex="0038"/>
   <outline>
     <contour>
@@ -10,21 +10,21 @@
       <point x="450" y="150"/>
       <point x="500" y="150" type="curve"/>
       <point x="500" y="170"/>
-      <point x="490" y="175"/>
-      <point x="490" y="225" type="curve"/>
-      <point x="490" y="275"/>
-      <point x="500" y="280"/>
-      <point x="500" y="300" type="curve"/>
-      <point x="450" y="300"/>
-      <point x="350" y="365"/>
-      <point x="350" y="375" type="curve"/>
-      <point x="350" y="385"/>
-      <point x="450" y="450"/>
-      <point x="500" y="450" type="curve"/>
-      <point x="500" y="470"/>
-      <point x="490" y="475"/>
-      <point x="490" y="525" type="curve"/>
-      <point x="490" y="565"/>
+      <point x="490" y="185"/>
+      <point x="490" y="235" type="curve"/>
+      <point x="490" y="285"/>
+      <point x="500" y="300"/>
+      <point x="500" y="320" type="curve"/>
+      <point x="450" y="320"/>
+      <point x="380" y="365"/>
+      <point x="380" y="375" type="curve"/>
+      <point x="380" y="385"/>
+      <point x="450" y="430"/>
+      <point x="500" y="430" type="curve"/>
+      <point x="500" y="450"/>
+      <point x="490" y="465"/>
+      <point x="490" y="515" type="curve"/>
+      <point x="490" y="555"/>
       <point x="500" y="580"/>
       <point x="500" y="600" type="curve"/>
       <point x="450" y="600"/>
@@ -35,21 +35,21 @@
       <point x="50" y="600"/>
       <point x="0" y="600" type="curve"/>
       <point x="0" y="580"/>
-      <point x="10" y="575"/>
-      <point x="10" y="525" type="curve"/>
-      <point x="10" y="475"/>
-      <point x="0" y="470"/>
-      <point x="0" y="450" type="curve"/>
-      <point x="50" y="450"/>
-      <point x="150" y="385"/>
-      <point x="150" y="375" type="curve"/>
-      <point x="150" y="365"/>
-      <point x="50" y="299"/>
-      <point x="0" y="300" type="curve"/>
-      <point x="0" y="280"/>
-      <point x="10" y="275"/>
-      <point x="10" y="225" type="curve"/>
-      <point x="10" y="175"/>
+      <point x="10" y="565"/>
+      <point x="10" y="515" type="curve"/>
+      <point x="10" y="465"/>
+      <point x="0" y="450"/>
+      <point x="0" y="430" type="curve"/>
+      <point x="50" y="430"/>
+      <point x="120" y="385"/>
+      <point x="120" y="375" type="curve"/>
+      <point x="120" y="365"/>
+      <point x="50" y="319"/>
+      <point x="0" y="320" type="curve"/>
+      <point x="0" y="300"/>
+      <point x="10" y="285"/>
+      <point x="10" y="235" type="curve"/>
+      <point x="10" y="185"/>
       <point x="0" y="170"/>
       <point x="0" y="150" type="curve"/>
       <point x="50" y="150"/>
@@ -207,7 +207,7 @@
                   <key>x</key>
                   <integer>500</integer>
                   <key>y</key>
-                  <integer>300</integer>
+                  <integer>320</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -227,7 +227,7 @@
                   <key>x</key>
                   <integer>500</integer>
                   <key>y</key>
-                  <integer>450</integer>
+                  <integer>430</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -277,7 +277,7 @@
                   <key>x</key>
                   <integer>0</integer>
                   <key>y</key>
-                  <integer>450</integer>
+                  <integer>430</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -297,7 +297,7 @@
                   <key>x</key>
                   <integer>0</integer>
                   <key>y</key>
-                  <integer>300</integer>
+                  <integer>320</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -376,7 +376,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>580</integer>
+          <integer>500</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

@@ -220,7 +220,7 @@
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.background.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.background.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.background.layerShowFill</key>
@@ -231,9 +231,9 @@
 	<false/>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>
 	<array>
-		<integer>0</integer>
-		<real>0.8</real>
-		<real>0.2</real>
+		<real>0.1099</real>
+		<real>0.8382</real>
+		<real>0.2116</real>
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.compileSettings.MacRomanFirst</key>
@@ -268,7 +268,7 @@
 		<real>0.7</real>
 	</array>
 	<key>com.typemytype.robofont.foreground.layerShow</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.foreground.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.foreground.layerShowFill</key>
@@ -380,7 +380,7 @@
 	<key>com.typemytype.robofont.similar_glyphs.layerShowFill</key>
 	<true/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowPoints</key>
-	<false/>
+	<true/>
 	<key>com.typemytype.robofont.similar_glyphs.layerShowStroke</key>
 	<true/>
 	<key>com.typemytype.robofont.similar_glyphs.layerStrokeColor</key>
@@ -617,7 +617,7 @@
 	<key>com.typemytype.robofont.templateCharacterSet</key>
 	<string>Latin-1</string>
 	<key>com.typemytype.robofont.testing.layerShow</key>
-	<true/>
+	<false/>
 	<key>com.typemytype.robofont.testing.layerShowCoordinates</key>
 	<false/>
 	<key>com.typemytype.robofont.testing.layerShowFill</key>
