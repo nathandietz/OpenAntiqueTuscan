@@ -1,5 +1,5 @@
 #Open Antique Tuscan
-https://github.com/singingmower/OpenAntiqueTuscan
+https://github.com/nathandietz/OpenAntiqueTuscan
 
 Open Antique Tuscan is a revival and expansion of an Antique Tuscan wood type design Wells & Webb 1849 specimens catalog. This was inspired by the book <a href="https://www.amazon.com/American-Wood-Type-1828-1900-Evolution/dp/0978588177">American Wood Type 1828–1900</a> by Rob Roy Kelly.
 
